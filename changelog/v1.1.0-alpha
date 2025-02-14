@@ -1,0 +1,21 @@
+# Changelog
+## v1.1.0-alpha
+### Added
+- Audio for sentences
+- Characters view seperation between HSK levels
+- Characters view search for character
+- Improvment in query speed
+- Word feedback - share your feedback about a word. Accesible from Advanced Settings in Word Card
+- Splash screen for app loading
+
+### Changed
+- Size of ABCD buttons for hanzi
+- Style of buttons for word managing
+- Description and naming of button and fields
+- Some UI/UX
+- Style unification
+
+### Fixed
+- Search with known characters should involve characters in input field as a part of set
+- Ugly filter buttons
+- Pinyin and audio for some words
