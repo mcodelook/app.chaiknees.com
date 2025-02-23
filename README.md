@@ -1,5 +1,5 @@
 # ⭐ Chaiknees is now available! ⭐ [Chaiknees](https://www.chaiknees.com/)
-
+[User manual](https://github.com/mcodelook/app.chaiknees.com/blob/main/Chaiknees%20documentation-1.2.0.alpha.pdf) for version 1.2.0-alpha
 I am excited to introduce **Chaiknees**, a learning tool for Chinese language learners! This alpha release includes core functionality, setting the foundation for future updates.
 
 ---
@@ -8,7 +8,7 @@ I am excited to introduce **Chaiknees**, a learning tool for Chinese language le
 
 ### **User Account & Settings**
 
-- Firebase authentication with email verification.
+- Firebase authentication.
 - Light and dark mode toggle.
 - Backup every 3 days.
 - Feedback after each answered question, displaying the correct answer.
@@ -23,6 +23,7 @@ I am excited to introduce **Chaiknees**, a learning tool for Chinese language le
 - Words and characters have a **popularity index** based on usage frequency.
 - Users can **create and manage their own dictionary**.
 - Tracking of known characters to enhance writing practice.
+- Over 60.000 example sentences with audio
 
 ### **Learning & Review**
 
