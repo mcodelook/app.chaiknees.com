@@ -1,5 +1,6 @@
 # ⭐ Chaiknees is now available! ⭐ [Chaiknees](https://www.chaiknees.com/)
-[User manual](https://github.com/mcodelook/app.chaiknees.com/blob/main/Chaiknees%20documentation-1.2.0.alpha.pdf) for version 1.2.0-alpha
+##[User manual](https://github.com/mcodelook/app.chaiknees.com/blob/main/Chaiknees%20documentation-1.2.0.alpha.pdf) for version 1.2.0-alpha
+
 I am excited to introduce **Chaiknees**, a learning tool for Chinese language learners! This alpha release includes core functionality, setting the foundation for future updates.
 
 ---
